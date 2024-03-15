@@ -1,5 +1,5 @@
 summary: base64 encoder and decoder
-webpage: 
-version: 2023.04.07
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-arm64/releases/download/2023.04.07/base64-2023.04.07-macos13.0-arm64.tar.xz
-bin-sha: f450d2c94cc64c0c98779b63ad85f73889a8e0e4707c50f0b9dcbb27db6602f8
+webpage: https://github.com/leleliu008/C-examples
+version: 2023.04.06
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/base64-2023.04.06-macos11.0-arm64.tar.xz
+bin-sha: a1a19a7137186efc62b406564e4eed150f0ec17e389de2ff08b68878580cb8a3

@@ -1,5 +1,5 @@
 summary: Get a file from an HTTP, HTTPS or FTP server
 webpage: https://curl.haxx.se/
 version: 7.86.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-arm64/releases/download/2023.04.07/curl-7.86.0-macos13.0-arm64.tar.xz
-bin-sha: 0b34c9c71f700c7da553197336c2b5cc4c0c3a596edac2fd62e17a46058d0f67
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/curl-7.86.0-macos11.0-arm64.tar.xz
+bin-sha: 3c9123b9dda60511236a6465d1cf59b8c5884ec665d7f825d662646f39421217

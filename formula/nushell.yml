@@ -1,5 +1,5 @@
 summary: Modern shell for the GitHub era
 webpage: https://www.nushell.sh
 version: 0.71.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-arm64/releases/download/2023.04.07/nushell-0.71.0-macos13.0-arm64.tar.xz
-bin-sha: c1a64547aa865470f58539af536414f35be784e1d67efa466935cd30aa657a1a
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/nushell-0.71.0-macos11.0-arm64.tar.xz
+bin-sha: 9c99622d786136f2f241a75aed99a174eb5a8b542a247be724fd525c1bdd6324
