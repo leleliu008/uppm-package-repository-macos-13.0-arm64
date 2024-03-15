@@ -1,0 +1,5 @@
+summary: Collection of Linux utilities
+webpage: https://github.com/util-linux/util-linux
+version: 2.36
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/util-linux-2.36-macos11.0-arm64.tar.xz
+bin-sha: 41f2566f1ad2fdbdc9354225eed5cfff1f68f7c417299691eff136a4fc740b4f

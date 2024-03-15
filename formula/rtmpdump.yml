@@ -1,0 +1,5 @@
+summary: Tool for downloading RTMP streaming media
+webpage: https://rtmpdump.mplayerhq.hu
+version: 2.4+20151223
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/rtmpdump-2.4+20151223-macos11.0-arm64.tar.xz
+bin-sha: bf6b9601dfbbde522ac5fead1474bb869aaef45fa0e8b68f49f8f1a4018727b8

@@ -1,0 +1,5 @@
+summary: Unified display of technical and tag data for audio/video
+webpage: https://mediaarea.net
+version: 22.06
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/mediainfo-22.06-macos11.0-arm64.tar.xz
+bin-sha: c7bc655fce3d1814cd6c0dad624587c256fd903b03d702665d1728328f6c8ff2

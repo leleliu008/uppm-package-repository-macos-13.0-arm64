@@ -1,0 +1,5 @@
+summary: Download with resuming and segmented downloading
+webpage: https://aria2.github.io
+version: 1.36.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/aria2-1.36.0-macos11.0-arm64.tar.xz
+bin-sha: 4909bc74c27cdbb69d35d6ec63c3e67cedb3eac51c297884daf3f01042f90632

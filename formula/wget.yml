@@ -1,0 +1,5 @@
+summary: Internet file retriever
+webpage: https://www.gnu.org/software/wget
+version: 1.21.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/wget-1.21.3-macos11.0-arm64.tar.xz
+bin-sha: f6dece52972e8146091608d8a20ee0b130d552bb97c741b633c4efcdcab8bfb9

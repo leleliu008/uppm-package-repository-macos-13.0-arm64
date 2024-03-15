@@ -1,0 +1,5 @@
+summary: BSD tar
+webpage: https://www.libarchive.org/
+version: 3.7.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/bsdtar-3.7.2-macos11.0-arm64.tar.xz
+bin-sha: 44a27db765b62aa951dccb57b280684350c7a4f63d64d16ec4cee8f247b0df4b

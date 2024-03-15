@@ -1,0 +1,5 @@
+summary: command-line interface for SQLite
+webpage: https://www.sqlite.org/
+version: 3.41.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/sqlite-3.41.1-macos11.0-arm64.tar.xz
+bin-sha: 7a97196457e88d4e0f6b5b14b0f6c5c682f8db5320bb8418777891dd0baf162d

@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://www.openssl.org/
+version: 3.0.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/openssl-3.0.5-macos11.0-arm64.tar.xz
+bin-sha: 102bee7019d14b14bad9098af228b1cc37481aa83947e689af35e626ac1dafd3
