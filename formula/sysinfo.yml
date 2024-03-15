@@ -1,5 +1,5 @@
 summary: a command-line tool to get your system information.
-webpage: https://github.com/leleliu008/C-examples
-version: 2023.04.06
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/sysinfo-2023.04.06-macos11.0-arm64.tar.xz
-bin-sha: 943aa44a7d6bf1318b50f9c708391a5ae9a781e720cc2e941cccabf7cee4ec59
+webpage: 
+version: 2023.04.07
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-arm64/releases/download/2023.04.07/sysinfo-2023.04.07-macos13.0-arm64.tar.xz
+bin-sha: 9950350e29489b516018cd16e4d724e9d4db4d662b0961d536e844e8836c5f32

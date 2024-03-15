@@ -1,5 +1,5 @@
 summary: Multi-format archive and compression library
 webpage: https://www.libarchive.org/
 version: 3.6.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/libarchive-3.6.2-macos11.0-arm64.tar.xz
-bin-sha: 519bd094a06807ddff25de8a1759dfcc352319c795d05c4992502064ab62e112
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-arm64/releases/download/2023.04.07/libarchive-3.6.2-macos13.0-arm64.tar.xz
+bin-sha: 92b7fe696949ebd9eb5a8c4fccc345876a961c61564edee2f79f663f2e0555da
