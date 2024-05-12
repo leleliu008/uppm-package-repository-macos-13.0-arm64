@@ -1,5 +1,5 @@
 summary: utilities provided by libxml2
 webpage: http://xmlsoft.org
-version: 2.10.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos10.15-x86_64/releases/download/2023.04.07/libxml2-utils-2.10.3-macos10.15-x86_64.tar.xz
-bin-sha: 44969b9cfb91cdab24415268fcacc5efece649f108b505db799e6bce92d96202
+version: 2.12.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2023.04.07/libxml2-utils-2.12.6-macos-13.0-arm64.tar.xz
+bin-sha: 49ccc610c5fbfaabf3ec4d7836d470b53e63ddd04733112af6a7648554c977d2
