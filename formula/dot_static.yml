@@ -1,0 +1,5 @@
+summary: A command-line tool for drawing graphs
+webpage: https://www.graphviz.org/
+version: 11.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2023.04.07/dot_static-11.0.0-macos-13.0-arm64.tar.xz
+bin-sha: d762d079dc9ea599767a71b17d0f1f4d086ebce42e42df03328b76c3099c16ab
