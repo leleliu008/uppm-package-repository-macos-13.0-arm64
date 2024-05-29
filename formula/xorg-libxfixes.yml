@@ -1,0 +1,5 @@
+summary: X.Org Header files for the XFIXES extension
+webpage: https://www.x.org/
+version: 6.0.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/xorg-libxfixes-6.0.1-macos-13.0-arm64.tar.xz
+bin-sha: fb2482c005eeb36a9da6266112a7aab084d41f586857b5f620e8174dd8ef6afb

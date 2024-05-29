@@ -1,0 +1,5 @@
+summary: New way to see and navigate directory trees
+webpage: https://dystroy.org/broot/
+version: 1.38.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/broot-1.38.0-macos-13.0-arm64.tar.xz
+bin-sha: 0eaef9e9e1303c7fc030827d1a016231584bc6d968a1b286cf0eca2e395e8fa3

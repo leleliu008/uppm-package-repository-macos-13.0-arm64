@@ -1,0 +1,5 @@
+summary: A powerful, enterprise-ready, open source web server with automatic HTTPS
+webpage: https://caddyserver.com/
+version: 2.7.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/caddy-2.7.6-macos-13.0-arm64.tar.xz
+bin-sha: 5b78a882b84c77125719fed41bf9d4345f6e84be6896d5bb189721b5f8ab8949

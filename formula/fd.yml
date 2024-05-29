@@ -1,0 +1,5 @@
+summary: A simple, fast and user-friendly alternative to find(1)
+webpage: https://github.com/sharkdp/fd
+version: 10.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/fd-10.1.0-macos-13.0-arm64.tar.xz
+bin-sha: 92d879eabbb97e4e246b6bbd60aaf46c8e2f5b0de22aaef13068774e52117b3b

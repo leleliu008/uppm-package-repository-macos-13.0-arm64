@@ -1,0 +1,5 @@
+summary: Terminal file manager
+webpage: https://github.com/gokcehan/lf
+version: r26
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/lf-r26-macos-13.0-arm64.tar.xz
+bin-sha: f48219e2b5c3acc0fb0751613cc1c8694637143d0bfbe93199c4f9a07922b0a3

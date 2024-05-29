@@ -1,5 +1,5 @@
 summary: GNU version of the tar archiving utility
 webpage: https://www.gnu.org/software/tar
-version: 1.34
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/gtar-1.34-macos11.0-arm64.tar.xz
-bin-sha: 12d879ac9d652c46e4decb3359d4bc782fef45f1c90497b8fa319985453e7733
+version: 1.35
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/gtar-1.35-macos-13.0-arm64.tar.xz
+bin-sha: 2e2f8c99d74af7fa1a357cfac42be8581a58ef746d09981329bdc9578abdc74c

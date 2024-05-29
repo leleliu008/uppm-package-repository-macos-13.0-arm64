@@ -1,0 +1,5 @@
+summary: Open Source H.264 Codec
+webpage: https://github.com/cisco/openh264
+version: 2.4.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/libopenh264-2.4.1-macos-13.0-arm64.tar.xz
+bin-sha: 1f5e5a284baca5a365c2c8a0e80fda6d1161caf87a1d7b3569fd98b759744461

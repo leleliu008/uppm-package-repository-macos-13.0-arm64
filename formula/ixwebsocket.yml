@@ -1,0 +1,5 @@
+summary: WebSocket client and server, and HTTP client command-line tool
+webpage: https://github.com/machinezone/IXWebSocket
+version: 11.3.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/ixwebsocket-11.3.2-macos-13.0-arm64.tar.xz
+bin-sha: 167058e42b4371634c19dc417dcda35b5d1465f974fb622537b82ee387e0ffec

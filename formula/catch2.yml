@@ -1,0 +1,5 @@
+summary: Modern, C++-native, header-only, test framework
+webpage: https://github.com/catchorg/Catch2
+version: 3.6.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/catch2-3.6.0-macos-13.0-arm64.tar.xz
+bin-sha: d35c4a669da0c35e7c2a5613743f3a1bd4d0f0322184ec284d48e4985b27ed04

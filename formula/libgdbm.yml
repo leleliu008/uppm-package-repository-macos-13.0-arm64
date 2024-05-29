@@ -1,0 +1,5 @@
+summary: GNU database manager
+webpage: https://www.gnu.org/software/gdbm
+version: 1.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/libgdbm-1.23-macos-13.0-arm64.tar.xz
+bin-sha: 9840acef3174e9872cebe7204164c06e58f98fb8738ff09a6eb667731ccc118e

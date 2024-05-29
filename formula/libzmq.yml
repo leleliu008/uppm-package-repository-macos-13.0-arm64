@@ -1,0 +1,5 @@
+summary: An open-source universal messaging library
+webpage: https://zeromq.org/
+version: 4.3.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/libzmq-4.3.5-macos-13.0-arm64.tar.xz
+bin-sha: 6ef730b6323b7a29593977aafb30b3c99531ce1e450a0056cdf23ab7865596f7

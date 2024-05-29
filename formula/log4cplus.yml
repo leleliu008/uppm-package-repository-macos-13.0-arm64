@@ -1,0 +1,5 @@
+summary: A simple-to-use, log4j-like logging framework for C++
+webpage: https://sourceforge.net/p/log4cplus/wiki/Home/
+version: 2.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/log4cplus-2.1.1-macos-13.0-arm64.tar.xz
+bin-sha: bc2e7c85637e80004c16b80f156138f138a81e37da25239afa438efc5f65abfd

@@ -1,0 +1,5 @@
+summary: Swiss army knife for Debian repository management
+webpage: https://www.aptly.info/
+version: 1.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/aptly-1.5.0-macos-13.0-arm64.tar.xz
+bin-sha: ce4303f269b12b17fd47ebb9e13cf3b6a5fd74ea1f607df994e654e028009ead

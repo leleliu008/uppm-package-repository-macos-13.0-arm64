@@ -1,0 +1,5 @@
+summary: A simple (but less powerful) GNU gettext libintl replacement
+webpage: https://github.com/j-jorge/libintl-lite
+version: 2024.05.29
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/libintl-lite-2024.05.29-macos-13.0-arm64.tar.xz
+bin-sha: 2b6fec46484a2a0c3c8c78582292d3638a72bc848b0f3cc069fda00ac2ac9a53

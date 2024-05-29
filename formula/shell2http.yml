@@ -1,0 +1,5 @@
+summary: HTTP-server to execute shell commands
+webpage: https://github.com/msoap/shell2http
+version: 2024.05.29
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/shell2http-2024.05.29-macos-13.0-arm64.tar.xz
+bin-sha: bd08638b2bc87fab94674e1dd5bd22a58df522b0b0c334dd5c3d47b20aa59fc3

@@ -1,0 +1,5 @@
+summary: A command-line tool for downloading APK files from various sources
+webpage: https://github.com/EFForg/apkeep
+version: 0.8.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/apkeep-0.8.0-macos-13.0-arm64.tar.xz
+bin-sha: 1c888f8da2f8a8a662a433faf1b86aed9a1ccb0ff8072b3bccbc16cbe04cdcee

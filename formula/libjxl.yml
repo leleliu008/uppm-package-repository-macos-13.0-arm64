@@ -1,0 +1,5 @@
+summary: New file format for still image compression
+webpage: https://jpeg.org/jpegxl/index.html
+version: 0.10.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/libjxl-0.10.2-macos-13.0-arm64.tar.xz
+bin-sha: 7328f44ba94f145496212dcec07b483bda5ebda737c0b007f4f46d73ba4b3f77

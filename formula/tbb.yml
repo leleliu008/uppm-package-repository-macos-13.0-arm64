@@ -1,0 +1,5 @@
+summary: Rich and complete approach to parallelism in C++
+webpage: https://github.com/oneapi-src/oneTBB
+version: 2021.9.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/tbb-2021.9.0-macos-13.0-arm64.tar.xz
+bin-sha: 7acb264b114e2ac58ec807cb6bcffbc6f0ec123b0713907668a226c2f446faa9

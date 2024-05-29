@@ -1,5 +1,5 @@
 summary: Portable version of NetBSD make(1)
 webpage: https://www.crufty.net/help/sjg/bmake.html
-version: 20230303
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/bmake-20230303-macos11.0-arm64.tar.xz
-bin-sha: 600ea689080a14600eb673d765596971a30788da3a0a34b4e147c43fdb6fc6a6
+version: 20230711
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/bmake-20230711-macos-13.0-arm64.tar.xz
+bin-sha: 43997f9d9f60437f50567af6d389146173368e643e8773d43f44871cc6137b54

@@ -1,0 +1,5 @@
+summary: X.Org Toolkit Intrinsics library
+webpage: https://www.x.org/
+version: 1.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/xorg-libxt-1.3.0-macos-13.0-arm64.tar.xz
+bin-sha: 062f8d584eb526fe14c2abb6e07baf84d64c8d3956f88c8059d3d62fea78ce75

@@ -1,0 +1,5 @@
+summary: Obfuscate Go builds
+webpage: https://github.com/burrowers/garble
+version: 0.12.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/garble-0.12.1-macos-13.0-arm64.tar.xz
+bin-sha: 44e63588833725ff703aee995cc5f7840058fd2def4f338d5adb687311db0f01

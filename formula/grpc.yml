@@ -1,0 +1,5 @@
+summary: A modern, open source, high-performance remote procedure call (RPC) framework
+webpage: https://grpc.io
+version: 1.62.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/grpc-1.62.2-macos-13.0-arm64.tar.xz
+bin-sha: f9b80118dddc8893c2761fc96791db6cd851fcf26b274757081dbce32bcd70dd
