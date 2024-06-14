@@ -2,4 +2,4 @@ summary: Apply a diff file to an original
 webpage: https://savannah.gnu.org/projects/patch
 version: 2.7.6
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/patch-2.7.6-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 402fc506e694581cc5a5de74e1a3c227a52bf4db2d1bd9b76fbc187740d25641

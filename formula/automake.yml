@@ -2,4 +2,4 @@ summary: Tool for generating GNU Standards-compliant Makefiles
 webpage: https://www.gnu.org/software/automake
 version: 1.16.5
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/automake-1.16.5-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 783f58e6c3e9bc77422fc53e8b6a2d27a827eefd9089a2764923671372dbaa28

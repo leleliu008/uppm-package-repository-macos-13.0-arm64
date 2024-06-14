@@ -2,4 +2,4 @@ summary: A C library that provides generic access to USB devices
 webpage: https://libusb.info
 version: 1.0.27
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libusb-1.0.27-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: e77023826e4b5a9c1886cae505c3a7ab776f9e8ac978d6522ae0601a0a70b067

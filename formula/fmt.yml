@@ -2,4 +2,4 @@ summary: An open-source C/C++ library for formatting that provides a fast and sa
 webpage: https://fmt.dev
 version: 10.2.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/fmt-10.2.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 8f429377dab85ee9d9e575d7aa57af3bbc8e69346930b43505696a8839d63ab1

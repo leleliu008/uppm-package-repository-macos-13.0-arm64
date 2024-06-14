@@ -2,4 +2,4 @@ summary: Super fast C++ logging library
 webpage: https://github.com/gabime/spdlog
 version: 1.13.0
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/spdlog-1.13.0-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: cff3e5fd474f31c42896598ff5acaefec419a2083bc756c3efd4d40cd4c4a55d

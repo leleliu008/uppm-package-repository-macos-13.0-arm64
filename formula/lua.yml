@@ -2,4 +2,4 @@ summary: Powerful, lightweight programming language
 webpage: https://www.lua.org/
 version: 5.4.6
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/lua-5.4.6-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: e75da0e68d30886a3aa0703071f560f02a156c3d5f9e40686a28bd697d3d1b07

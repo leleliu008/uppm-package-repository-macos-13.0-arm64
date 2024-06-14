@@ -2,4 +2,4 @@ summary: Ncurses BitTorrent client based on libtorrent-rakshasa
 webpage: https://github.com/rakshasa/rtorrent
 version: 0.9.8
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/rtorrent-0.9.8-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: fe7c75799386c3ddb90f80a97e46443b9418238adc5d38b59255f26edd9a389e

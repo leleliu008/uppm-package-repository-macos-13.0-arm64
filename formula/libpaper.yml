@@ -2,4 +2,4 @@ summary: Library for handling paper characteristics
 webpage: https://github.com/rrthomas/libpaper
 version: 2.2.5
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libpaper-2.2.5-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: cc6ccc40ff2a7405b8a650923f4ad5625c2af7c01459669e5618620099a2b2f9

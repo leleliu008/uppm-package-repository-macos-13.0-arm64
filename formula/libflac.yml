@@ -2,4 +2,4 @@ summary: Free lossless audio codec
 webpage: https://xiph.org/flac/
 version: 1.4.3
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libflac-1.4.3-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 2c76ed2895819f586fa2cb34b739f52804ec6f0cf7bdcaa696a92e386dde1bd7

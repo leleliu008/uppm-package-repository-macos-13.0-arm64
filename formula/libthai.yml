@@ -2,4 +2,4 @@ summary: Thai language support library
 webpage: https://linux.thai.net/projects/libthai
 version: 0.1.28
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libthai-0.1.28-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: d9c88159e91a0ac7a2c1236a8df030c2489d0040a34e2af7fdfba7e0d30ce27d

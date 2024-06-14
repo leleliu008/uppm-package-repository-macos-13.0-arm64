@@ -2,4 +2,4 @@ summary: A simple file manager written in bash
 webpage: https://github.com/dylanaraps/fff
 version: 2.2
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/fff-2.2-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: cedd5da9636f4592a2c56abce39e23298b877c798e28f44c0ef242de56b01c13

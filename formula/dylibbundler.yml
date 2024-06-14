@@ -2,4 +2,4 @@ summary: Utility to bundle libraries into executables for macOS
 webpage: https://github.com/auriamg/macdylibbundler
 version: 1.0.5
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/dylibbundler-1.0.5-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: e3eef411f359077a4098a8ec3e1d6e0f532500d71148c9fde8209622d71e646e

@@ -2,4 +2,4 @@ summary: A toolkit for manipulation of graphic images, including conversion of i
 webpage: http://netpbm.sourceforge.net/
 version: 10.86.41
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/netpbm-10.86.41-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: a1ab1827b1452e4c0e1b9887a4b9551b3da90788f7177815c2f4696de1059a12

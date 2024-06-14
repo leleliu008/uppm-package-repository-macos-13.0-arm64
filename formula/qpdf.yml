@@ -2,4 +2,4 @@ summary: A command-line tool and C++ library that performs content-preserving tr
 webpage: https://github.com/qpdf/qpdf
 version: 11.9.0
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/qpdf-11.9.0-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 1b62c9bd6e8c04bedef403e3102e9e7a32a23e8fcee3542a6d015860612966cd

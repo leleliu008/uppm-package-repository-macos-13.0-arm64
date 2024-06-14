@@ -2,4 +2,4 @@ summary: A bash syntax highlighter that encourages/fixes variables quoting
 webpage: https://github.com/anordal/shellharden
 version: 4.3.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/shellharden-4.3.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 31689966ce7ba61019bbfd699818f71429f5c2a4659f8f718253eb7ed5322aff

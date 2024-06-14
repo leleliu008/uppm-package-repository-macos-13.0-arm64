@@ -2,4 +2,4 @@ summary: Display directories as trees (with optional color/HTML output)
 webpage: http://mama.indstate.edu/users/ice/tree
 version: 2.1.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/tree-2.1.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 6f395413e6a13140b0f6ddba0590c590dcbcc61bab4d410230b2c9cc963d6dd6

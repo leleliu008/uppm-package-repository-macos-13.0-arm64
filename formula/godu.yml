@@ -2,4 +2,4 @@ summary: A simple utility to discover large files/folders
 webpage: https://github.com/viktomas/godu
 version: 1.3
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/godu-1.3-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 16d79753c7d429f877c446197886335e56ce29199de2adb11e85056d68706811

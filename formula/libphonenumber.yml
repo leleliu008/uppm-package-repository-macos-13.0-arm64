@@ -2,4 +2,4 @@ summary: A C++ library for parsing, formatting, and validating international pho
 webpage: https://github.com/google/libphonenumber
 version: 8.13.37
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libphonenumber-8.13.37-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: b94a18f91f1996dc7e809508f046e1ad3b6085d9740f300cf01752dcfbee706c

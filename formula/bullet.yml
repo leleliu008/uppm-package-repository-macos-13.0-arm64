@@ -2,4 +2,4 @@ summary: Physics SDK
 webpage: https://bulletphysics.org/
 version: 3.25
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/bullet-3.25-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: d466bb1c4409ab3a64a099e6d4f06e4e6e177070cd1c987dd2b04a3e6eee5ddd

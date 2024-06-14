@@ -2,4 +2,4 @@ summary: Header-only C++ library for JSON Schema validation
 webpage: https://github.com/tristanpenman/valijson
 version: 1.0.2
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/valijson-1.0.2-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: bbdf7bed1f39b575252b062218f4af0dfe637b5341ace4a69a5a6fedd4f2eb79

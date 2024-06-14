@@ -2,4 +2,4 @@ summary: A command-line tool to create a hex dump of a given file or standard in
 webpage: https://www.vim.org/
 version: 9.1.0450
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/xxd-9.1.0450-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 1adb2a1aa8d406ee978b219f39543f122b85e024398993a33d84a4dfbebb385a

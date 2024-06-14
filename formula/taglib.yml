@@ -2,4 +2,4 @@ summary: A library for reading and editing the metadata of several popular audio
 webpage: https://taglib.org/
 version: 1.13.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/taglib-1.13.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: d38d5a11af8cb4de997c3c346d035436476faad23a508852b855f926cf2cd006

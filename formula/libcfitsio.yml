@@ -2,4 +2,4 @@ summary: C access to FITS data files with optional Fortran wrappers
 webpage: https://heasarc.gsfc.nasa.gov/docs/software/fitsio/fitsio.html
 version: 4.4.0
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libcfitsio-4.4.0-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 81b457c5ac1dd803a718e663bc7a970c61c1c08d42a8117328bfdfbb7b2a4179

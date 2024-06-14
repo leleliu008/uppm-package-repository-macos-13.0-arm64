@@ -2,4 +2,4 @@ summary: Data compression library
 webpage: https://www.nongnu.org/lzip/lzlib.html
 version: 1.14
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/lzlib-1.14-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: aa666a390ba19e52fe22426f25fc04e55eb6f39e8b51ae3b2e33112f494caeda

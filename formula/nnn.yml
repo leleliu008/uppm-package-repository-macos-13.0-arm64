@@ -2,4 +2,4 @@ summary: Tiny, lightning fast, feature-packed file manager
 webpage: https://github.com/jarun/nnn
 version: 4.9
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/nnn-4.9-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: c1dadc5c2e6ad0545edbf97605deb76f25627c030bf08663651bc7bbc714a4d2

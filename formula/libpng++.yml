@@ -2,4 +2,4 @@ summary: C++ wrapper for libpng library
 webpage: https://www.nongnu.org/pngpp/
 version: 0.2.10
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libpng++-0.2.10-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: c9cce5566734a7cd5173d87beb752a2f4fde0036a789cabdee3a6d566c451e1b

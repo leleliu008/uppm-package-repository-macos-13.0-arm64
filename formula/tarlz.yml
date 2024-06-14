@@ -2,4 +2,4 @@ summary: A massively parallel (multi-threaded) combined implementation of the ta
 webpage: https://www.nongnu.org/lzip/tarlz.html
 version: 0.25
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/tarlz-0.25-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 0f21c2c14ab4c9ad9a0f0ef212d4d7a6cdb68e4366d8cc265a1d2af5c4289b64

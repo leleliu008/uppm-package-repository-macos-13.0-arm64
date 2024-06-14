@@ -2,4 +2,4 @@ summary: A high-performance JPEG image codec that uses SIMD instructions (MMX, S
 webpage: https://www.libjpeg-turbo.org/
 version: 3.0.2
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libjpeg-turbo-3.0.2-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 83ef7b16cfba7815d8ad19c90e871122359c1b140793adfd5da44d79d300f655

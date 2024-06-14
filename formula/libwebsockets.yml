@@ -2,4 +2,4 @@ summary: A flexible, lightweight pure C library for implementing modern network 
 webpage: https://libwebsockets.org
 version: 4.3.3
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libwebsockets-4.3.3-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: bc136d988eddac168a822576d97b277c7ef8e4600a4a5a4e5806fe18be8f38ab

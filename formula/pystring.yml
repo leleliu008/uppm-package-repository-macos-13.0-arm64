@@ -2,4 +2,4 @@ summary: C++ functions matching the interface and behavior of python string meth
 webpage: https://github.com/imageworks/pystring
 version: 1.1.4
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/pystring-1.1.4-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 3192acccc853eb12ca61afac3d89ce9692c0a299410b1b1469a445ee1bfdbd42

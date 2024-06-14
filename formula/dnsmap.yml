@@ -2,4 +2,4 @@ summary: Passive DNS network mapper (a.k.a. subdomains bruteforcer)
 webpage: https://github.com/resurrecting-open-source-projects/dnsmap
 version: 0.36
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/dnsmap-0.36-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 73eb16442bd7a58efa70b5ff2f51c9d57fa60dd35cefb4ea5b5e5557261fb2c2

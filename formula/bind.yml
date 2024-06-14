@@ -2,4 +2,4 @@ summary: Implementation of the DNS protocols
 webpage: https://www.isc.org/downloads/bind
 version: 9.18.27
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/bind-9.18.27-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: a14f12f8cc65a410ba3eb992e4bfd42b960a919e814934b17f840130355e508d

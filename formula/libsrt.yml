@@ -2,4 +2,4 @@ summary: Secure Reliable Transport
 webpage: https://www.srtalliance.org/
 version: 1.5.3
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libsrt-1.5.3-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: babf2ded4d255b751c851c3a27fc398a97d88951fbd79e0ee259df2dc8eb9769

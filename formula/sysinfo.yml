@@ -1,5 +1,5 @@
 summary: A command-line tool to get your currently running system information
 webpage: https://github.com/leleliu008/C-examples
-version: 2024.06.13
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/sysinfo-2024.06.13-macos-13.0-arm64.tar.xz
-bin-sha: 
+version: 2024.06.14
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/sysinfo-2024.06.14-macos-13.0-arm64.tar.xz
+bin-sha: 3afc2e0c279465b18224217b8e7bae20385bad67bd296c5762edbec089719906

@@ -2,4 +2,4 @@ summary: X.Org X Damage Extension library
 webpage: https://www.x.org/
 version: 1.1.6
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/xorg-libxdamage-1.1.6-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 02a5836a7ae3f8ca3deeec11a9ffe47c00f06c0aa6fd192e30d1146a7aa3d35e

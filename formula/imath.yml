@@ -2,4 +2,4 @@ summary: Library of 2D and 3D vector, matrix, and math operations
 webpage: https://www.openexr.com/
 version: 3.1.11
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/imath-3.1.11-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: fd27a7b831c8a4085ce4ec343689476ea8741ef880297098fa39e1fd8f93af50

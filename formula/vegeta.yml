@@ -2,4 +2,4 @@ summary: HTTP load testing tool and library
 webpage: https://github.com/tsenart/vegeta
 version: 12.11.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/vegeta-12.11.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 852c2bd32ac21ede17b296c2fa4f715a44c33f18728c44309b93a0a9d7d0cef4

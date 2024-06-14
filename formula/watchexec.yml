@@ -2,4 +2,4 @@ summary: Execute commands when watched files change
 webpage: https://github.com/watchexec/watchexec
 version: 2.1.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/watchexec-2.1.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 17b2aea4bed9603cff9d4c158fd50d26dca2c2afb8d43efc3a3611be6f7f42d5

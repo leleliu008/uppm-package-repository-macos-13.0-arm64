@@ -2,4 +2,4 @@ summary: Standalone JIT-style runtime for WebAssembly, using Cranelift
 webpage: https://wasmtime.dev/
 version: 21.0.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libwasmtime-21.0.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: b796b24cb01f4bbc3f54ce68f34c2bc3910dbb1aa54c41f1ea2732e0657d879e

@@ -2,4 +2,4 @@ summary: A command-line utility to read, write, delete and modify Exif, IPTC, XM
 webpage: https://exiv2.org/
 version: 0.28.2
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/exiv2-0.28.2-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 56c9d8719f55df1433ff61b18b0cd6c1d6661694cf91a00bc3bf98fd4541ccb5

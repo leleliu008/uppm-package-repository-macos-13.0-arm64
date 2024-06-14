@@ -2,4 +2,4 @@ summary: A shell parser, formatter, and interpreter with bash support written in
 webpage: https://github.com/mvdan/sh
 version: 3.4.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/gosh-3.4.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 977c1b8a763eff47e3c6ff65e2b52c8e044e7c1370dbab0300e36cf9179fc00c

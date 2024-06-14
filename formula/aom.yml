@@ -2,4 +2,4 @@ summary: Codec library for encoding and decoding AV1 video streams
 webpage: https://aomedia.googlesource.com/aom
 version: 3.9.0
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/aom-3.9.0-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 7a33381b453f51408fdb7aa190be703670fa1ad34d73fd7fb132ae5731097350

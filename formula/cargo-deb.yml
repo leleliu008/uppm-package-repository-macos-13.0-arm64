@@ -2,4 +2,4 @@ summary: A cargo subcommand that generates Debian packages from information in C
 webpage: https://github.com/kornelski/cargo-deb
 version: 1.41.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/cargo-deb-1.41.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: a2fd5be3e169c1ad48875f773badc8015d190f97c02e0d828792ee0c66095418

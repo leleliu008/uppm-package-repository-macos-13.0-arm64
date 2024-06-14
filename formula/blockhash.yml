@@ -2,4 +2,4 @@ summary: A perceptual image hash calculation tool based on algorithm descibed in
 webpage: https://github.com/commonsmachinery/blockhash
 version: 0.3.3
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/blockhash-0.3.3-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 346298dea823098cdb9e0b928c52234957da15a03698fd2e11f384eb61559d15

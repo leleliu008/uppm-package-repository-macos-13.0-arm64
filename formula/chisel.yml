@@ -2,4 +2,4 @@ summary: A collection of LLDB commands to assist debugging iOS apps
 webpage: https://github.com/facebook/chisel
 version: 2.0.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/chisel-2.0.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 63fad783f42f280e7e67d87d2132073a1ce3f9f42fb64a892b25e4986b133f0c

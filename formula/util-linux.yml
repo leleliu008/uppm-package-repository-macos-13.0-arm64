@@ -2,4 +2,4 @@ summary: A collection of Linux utilities
 webpage: https://github.com/util-linux/util-linux
 version: 2.39.3
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/util-linux-2.39.3-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 9ca923fd03a09d6b74242224709e46d5ffed58a6928bfde01262a0368dc63d3d

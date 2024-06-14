@@ -2,4 +2,4 @@ summary: GNU netcat is a GNU rewrite of the classic netcat (aka nc) utility for 
 webpage: https://netcat.sourceforge.net/
 version: 0.7.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/netcat-0.7.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: c9c07bca3b305214779d80941155fa5eeaa57157c46273f99ca358399d932780

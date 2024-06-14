@@ -2,4 +2,4 @@ summary: A portable package manager for Unix-like systems
 webpage: https://github.com/leleliu008/ppkg
 version: 0.1000.2
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/ppkg-0.1000.2-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: e65fdc9d014791acb84528f3e92c2fe4351073f540bdd43843d6f0a8d5f184e0

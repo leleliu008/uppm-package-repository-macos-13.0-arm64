@@ -2,4 +2,4 @@ summary: Kubernetes package manager
 webpage: https://helm.sh/
 version: 3.15.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/helm-3.15.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: f1afed6b8762321190c819ac54e0da0c036295a5fb6d357c26492d496216b8a9

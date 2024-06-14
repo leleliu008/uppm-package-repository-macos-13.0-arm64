@@ -2,4 +2,4 @@ summary: A highly customizable Changelog Generator that follows Conventional Com
 webpage: https://github.com/orhun/git-cliff
 version: 2.2.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/git-cliff-2.2.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 6c2e2d48f753f93b5011d9e111591bfe0988114a694024cbf98c1ccd37508d96

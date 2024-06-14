@@ -2,4 +2,4 @@ summary: A set of autoconf macros used to build other xorg packages
 webpage: https://www.x.org/
 version: 1.20.0
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/xorg-util-macros-1.20.0-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 5676959b04a7f51e1cf0743e3d3dfe4055a90db905a5e9bcbfe1a2fde8cdd63b

@@ -2,4 +2,4 @@ summary: A small, fast, self-contained, high-reliability, full-featured, SQL dat
 webpage: https://www.sqlite.org/
 version: 3.45.3
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libsqlite3-3.45.3-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 05489587ce750d83d77751dc521cfcc3cf7c0254cb2325f3cef9bf3719df8b50

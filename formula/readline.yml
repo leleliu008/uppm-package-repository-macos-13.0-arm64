@@ -2,4 +2,4 @@ summary: Library for command-line editing
 webpage: https://www.gnu.org/software/readline
 version: 8.2
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/readline-8.2-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 77a6fe08b82c571a89cb5720f7f19481f8c50865cd52148d7390002c6a229699

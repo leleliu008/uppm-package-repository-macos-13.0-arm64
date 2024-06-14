@@ -2,4 +2,4 @@ summary: A glib-like multi-platform c library
 webpage: https://tboox.org/
 version: 1.7.5
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/tbox-1.7.5-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: aed6ff1f0fdccdbcfd812f2f88a05cd63b1d767141dc8c2c2c6adf783145fe6d

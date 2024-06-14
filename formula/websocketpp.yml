@@ -2,4 +2,4 @@ summary: A header only C++ library that implements RFC6455 The WebSocket Protoco
 webpage: https://www.zaphoyd.com/projects/websocketpp/
 version: 0.8.2
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/websocketpp-0.8.2-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 98a33b387d026ecc6f6ebb010df2de019e3c55b8763f96eaeef12fbe7ffaf642

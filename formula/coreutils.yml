@@ -2,4 +2,4 @@ summary: GNU File, Shell, and Text utilities
 webpage: https://www.gnu.org/software/coreutils
 version: 9.5
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/coreutils-9.5-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: f4b995aa3645d505637df1a78eedd08310a0a0df17d0f6e37dd31a866801a9d7

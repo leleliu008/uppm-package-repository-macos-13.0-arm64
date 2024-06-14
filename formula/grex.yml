@@ -2,4 +2,4 @@ summary: A command-line tool for generating regular expressions from user-provid
 webpage: https://github.com/pemistahl/grex
 version: 1.4.5
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/grex-1.4.5-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: a658e90e1e8ab3ba2236bf50028653aa1f1f57e2462377e2695fdb7013f1facf

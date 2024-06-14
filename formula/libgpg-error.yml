@@ -2,4 +2,4 @@ summary: Common error values for all GnuPG components
 webpage: https://www.gnupg.org/related_software/libgpg-error
 version: 1.49
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libgpg-error-1.49-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: fdc33a7c330a14f47d0705993d4aa66a6b33811d7a9616cc90e33a88440bb99d

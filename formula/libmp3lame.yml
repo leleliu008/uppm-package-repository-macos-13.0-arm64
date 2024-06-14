@@ -2,4 +2,4 @@ summary: A high quality MPEG Audio Layer III (MP3) encoder
 webpage: https://lame.sourceforge.io
 version: 3.100
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libmp3lame-3.100-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: c446f3b91eb3632def4e692e985c2e79ae12f565973cafad220520cfdaa26724

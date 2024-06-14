@@ -2,4 +2,4 @@ summary: DCE compatible Universally Unique Identifier library
 webpage: https://github.com/util-linux/util-linux
 version: 2.39.3
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libuuid-2.39.3-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 158d8f4011bfa9432cc52c14e2dac06b93f8d85ededb1088cd97ee13c27ccc55

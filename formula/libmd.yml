@@ -2,4 +2,4 @@ summary: library provides message digest functions found on BSD systems
 webpage: https://www.hadrons.org/software/libmd
 version: 1.1.0
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libmd-1.1.0-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: d96715fdfb2d55e3c8c6f9f82f65dbab054322eb36c26048aa4bb94a5f7c8621

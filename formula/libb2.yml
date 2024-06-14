@@ -2,4 +2,4 @@ summary: Secure hashing function
 webpage: https://blake2.net
 version: 0.98.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libb2-0.98.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 8b55b22653217c513d5bd3723e084f1860d8ccaf987d4af3ea89627aecd77fae

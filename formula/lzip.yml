@@ -2,4 +2,4 @@ summary: LZMA-based compression program similar to gzip or bzip2
 webpage: https://www.nongnu.org/lzip
 version: 1.24.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/lzip-1.24.1-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: d521535aba71d7f6ba529a99f9198281a0109f32d9ee94209e2e7ca144dfcaa4

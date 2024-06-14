@@ -2,4 +2,4 @@ summary: Multi-platform support library with a focus on asynchronous I/O
 webpage: https://libuv.org/
 version: 1.48.0
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libuv-1.48.0-macos-13.0-arm64.tar.xz
-bin-sha: 
+bin-sha: 22e26abe70189240092fd1f70c2d1fc9fa1bf352b79446f15a6218128acd1fe4
