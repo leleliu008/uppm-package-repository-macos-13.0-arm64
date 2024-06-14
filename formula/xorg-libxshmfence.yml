@@ -1,5 +1,5 @@
 summary: X.Org Shared memory SyncFence synchronization primitive
 webpage: https://www.x.org/
 version: 1.3.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/xorg-libxshmfence-1.3.2-macos-13.0-arm64.tar.xz
-bin-sha: 9ea8160a4fafbbec0906eeb86fe0f78b2482d61c62a25a073355c637eee662d3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/xorg-libxshmfence-1.3.2-macos-13.0-arm64.tar.xz
+bin-sha: 

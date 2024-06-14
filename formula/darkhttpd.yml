@@ -1,5 +1,5 @@
 summary: A small static web server without CGI
 webpage: https://unix4lyfe.org/darkhttpd/
 version: 1.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/darkhttpd-1.16-macos-13.0-arm64.tar.xz
-bin-sha: 8654c540cbdbd903dadaddba7fd0d66af3059a182cab7cddfdad632ccdb7755b
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/darkhttpd-1.16-macos-13.0-arm64.tar.xz
+bin-sha: 

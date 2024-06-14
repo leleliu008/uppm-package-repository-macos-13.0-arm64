@@ -1,5 +1,5 @@
 summary: Database of common MIME types
 webpage: https://wiki.freedesktop.org/www/Software/shared-mime-info
 version: 2.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/shared-mime-info-2.4-macos-13.0-arm64.tar.xz
-bin-sha: 9d289ca8c3b7cef5b43581bc5ec10c4eff6f790d43ff814f5310c98b7e72a41e
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/shared-mime-info-2.4-macos-13.0-arm64.tar.xz
+bin-sha: 

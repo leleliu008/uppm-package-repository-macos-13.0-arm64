@@ -1,5 +1,5 @@
 summary: A C library for the arithmetic of high precision complex numbers
 webpage: http://www.multiprecision.org/mpc
 version: 1.3.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/libmpc-1.3.1-macos-13.0-arm64.tar.xz
-bin-sha: 830bb9c9f5ef28f458f39333c320a97cf5e9db598ae89da755446f08d610976b
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libmpc-1.3.1-macos-13.0-arm64.tar.xz
+bin-sha: 

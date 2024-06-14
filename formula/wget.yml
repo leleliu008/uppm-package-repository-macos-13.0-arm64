@@ -1,5 +1,5 @@
 summary: A free, open-source, command-line tool that is used to download files from web servers using HTTP, HTTPS, FTP protocols
 webpage: https://www.gnu.org/software/wget
 version: 1.24.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/wget-1.24.5-macos-13.0-arm64.tar.xz
-bin-sha: c7ae6731d2db0c54c555a3bee348b262d9384dc61fbed70a8a0716ad9e538904
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/wget-1.24.5-macos-13.0-arm64.tar.xz
+bin-sha: 

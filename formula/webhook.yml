@@ -1,5 +1,5 @@
 summary: A HTTP server to execute shell commands
 webpage: https://github.com/adnanh/webhook
 version: 2.8.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/webhook-2.8.1-macos-13.0-arm64.tar.xz
-bin-sha: 5e3b6f58a91fcc141d2bb64861f45459b3c24085bb6f7285948933be1fa3636c
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/webhook-2.8.1-macos-13.0-arm64.tar.xz
+bin-sha: 

@@ -1,5 +1,5 @@
 summary: Burrows–Wheeler-based data compression utilities with high compression ratio
 webpage: https://sourceware.org/bzip2
 version: 1.0.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/bzip2-1.0.8-macos-13.0-arm64.tar.xz
-bin-sha: ef04f58176f195e79490813b47ed7a980e56f20a2a5d47f7c02ef0bf51d6ca55
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/bzip2-1.0.8-macos-13.0-arm64.tar.xz
+bin-sha: 

@@ -1,5 +1,5 @@
 summary: JavaScript toolchain manager for reproducible environments
 webpage: https://volta.sh
 version: 1.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/volta-1.1.1-macos-13.0-arm64.tar.xz
-bin-sha: a137ab07ce88cdb4d892414d515778241e4f59404053b8e658f8834bc5965d19
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/volta-1.1.1-macos-13.0-arm64.tar.xz
+bin-sha: 

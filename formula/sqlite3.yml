@@ -1,5 +1,5 @@
 summary: A small, fast, self-contained, high-reliability, full-featured, SQL database engine written in C
 webpage: https://www.sqlite.org/
-version: 3.45.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/sqlite3-3.45.3-macos-13.0-arm64.tar.xz
-bin-sha: 4b8980639bd9a70e2b04d4cdb7f568419b4b6a1c3f03f9951c273c8fd3bcbd35
+version: 3.46.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/sqlite3-3.46.0-macos-13.0-arm64.tar.xz
+bin-sha: 

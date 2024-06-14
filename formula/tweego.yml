@@ -1,5 +1,5 @@
 summary: A free command-line compiler for Twine/Twee story formats
 webpage: https://github.com/tmedwards/tweego
 version: 2.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/tweego-2.1.1-macos-13.0-arm64.tar.xz
-bin-sha: cb1ddce44fbed57ec089f1bdd650a0ff646afc5a502a45d8fd80e86dd5408177
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/tweego-2.1.1-macos-13.0-arm64.tar.xz
+bin-sha: 

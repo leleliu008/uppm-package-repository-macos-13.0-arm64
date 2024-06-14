@@ -1,5 +1,5 @@
 summary: QR Code generation
 webpage: https://fukuchi.org/works/qrencode
 version: 4.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/libqrencode-4.1.1-macos-13.0-arm64.tar.xz
-bin-sha: d2dcf57a78ea37476a67e7f892bef58f5ea625cf7c55480848b6b91206925ec2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libqrencode-4.1.1-macos-13.0-arm64.tar.xz
+bin-sha: 

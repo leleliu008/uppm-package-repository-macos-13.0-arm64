@@ -1,5 +1,5 @@
 summary: A reliable, high-performance, thread-safe, flexible, clear-model logging library written in pure C
 webpage: https://github.com/HardySimpson/zlog
 version: 1.2.17
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/libzlog-1.2.17-macos-13.0-arm64.tar.xz
-bin-sha: 20bc2c3743bc1f591df188eda2cc2ad67f15ac92d97e3b7365855d10392ea772
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libzlog-1.2.17-macos-13.0-arm64.tar.xz
+bin-sha: 

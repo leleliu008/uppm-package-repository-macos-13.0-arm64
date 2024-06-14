@@ -1,5 +1,5 @@
 summary: C++ Testing and Mocking Framework by Google
 webpage: https://github.com/google/googletest
 version: 1.14.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/googletest-1.14.0-macos-13.0-arm64.tar.xz
-bin-sha: 5082d557062c2dbeee4ed3fa8b36f1eb23490f6429599850e6cbfdd7ca4dcf98
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/googletest-1.14.0-macos-13.0-arm64.tar.xz
+bin-sha: 

@@ -1,5 +1,5 @@
 summary: A C library for processing GIFs
 webpage: https://giflib.sourceforge.io
 version: 5.2.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/libgif-5.2.2-macos-13.0-arm64.tar.xz
-bin-sha: c78369a85c609e6f2a5c46f3ac8a4015f6b06d1933371c7131cd2a14c200e034
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/libgif-5.2.2-macos-13.0-arm64.tar.xz
+bin-sha: 

@@ -1,5 +1,5 @@
 summary: A command-line interface that brings github.com functionality to your terminal
 webpage: https://github.com/cli/cli
-version: 2.49.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.05.29/gh-2.49.2-macos-13.0-arm64.tar.xz
-bin-sha: ee0b530a0b6444bdb86ccb31f9e405cc1990f59ec9899b85f161e801815485a8
+version: 2.50.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/gh-2.50.0-macos-13.0-arm64.tar.xz
+bin-sha: 
