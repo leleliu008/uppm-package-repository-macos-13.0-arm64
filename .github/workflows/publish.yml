@@ -38,7 +38,7 @@ jobs:
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(./xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(~/.xcpkg/uppm/installed/coreutils/bin/sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -62,7 +62,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [faad2, fcp, fd, fdk-aac, fdroidcl, fff, figlet, findent, findutils, fish, flac, flatc, flex, flock, fnm, fontconfig, fortune, frei0r, fselect, fsmon, fswatch, fzf, fzy, garble, gawk, gbt, gdu, geographiclib, germanium, getopt, gettext-tools, gh, giflib, gindent, git, git-cliff, git-lfs, gitui, gitwatch, glib-tools, glow, glslang, gm4, gmake, gn, gnu-barcode, gnu-which, gnupg, go-md2man, go-tools, godu, gogs, golang, gomobile, google-benchmark, gopls, goreleaser, gosh, gotop, gotty, gox, gperf, gperftools, gping, gpsim, gputils, grep, grex, groff, gron, grpc-plugins, gsed, gtar, gzip, halibut, helix, helm, hexdump, hexyl, htop, htslib, httpx, hugo, hunspell, hurl, hydroxide, hyperfine, id3lib, ideviceinstaller, intltool, invoice, ixwebsocket, jansson, jemalloc, jfrog-cli, jj, joshuto, jq, json-glib, jump, k9s, kcp, kcptun, ko, krb5, lame, lazygit, lcms2, lcov, ldns, less, lf, libaec, libao, libasprintf, libasync++, libb2, libb64, libbcrypt, libblake3, libcaca, libcddb, libcdio, libcerf, libcfitsio, libcgif, libcpuinfo, libcroco]
+        pkg: [faad2, fcp, fd, fdk-aac, fdroidcl, fff, figlet, findent, findutils, fish, flac, flatc, flex, flock, fnm, fontconfig, fortune, frei0r, fselect, fsmon, fswatch, fzf, fzy, garble, gawk, gbt, gdu, geographiclib, germanium, getopt, gettext-tools, gh, giflib, gindent, git, git-cliff, git-lfs, gitui, gitwatch, glib-tools, glow, glslang, gm4, gmake, gn, gnu-barcode, gnu-which, gnupg, go-md2man, go-tools, godu, gogs, golang, gomobile, google-benchmark, gopls, goreleaser, gosh, gotop, gotty, gox, gperf, gperftools, gping, gpsim, gputils, grep, grex, groff, gron, grpc-plugins, gsed, gtar, gzip, halibut, helix, helm, hexdump, hexyl, htop, htslib, httpx, hugo, hunspell, hurl, hydroxide, hyperfine, id3lib, ideviceinstaller, intltool, invoice, ixwebsocket, jansson, jemalloc, jfrog-cli, jj, joshuto, jpegoptim, jq, json-glib, jump, k9s, kcp, kcptun, ko, krb5, lame, lazygit, lcms2, lcov, ldns, less, lf, libaec, libao, libasprintf, libasync++, libb2, libb64, libbcrypt, libblake3, libcaca, libcddb, libcdio, libcerf, libcfitsio, libcgif, libcpuinfo]
 
     runs-on: macos-14
 
@@ -91,7 +91,7 @@ jobs:
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(./xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(~/.xcpkg/uppm/installed/coreutils/bin/sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -115,7 +115,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [libduktape, libexhale, libexiv2, libflatbuffers, libglfw3, libglm, libgraphene, libilbc, libimagequant, libintl-lite, libirecovery, libisoburn, libjpeg, libkrb5, libleveldb, liblinear, liblmdb, libmaxminddb, libmd, libmesalink, libmetalink, libmhash, libmicrohttpd, libmill, libmimalloc, libminiz, libminizip-ng, libmms, libmpir, libnetpbm, libnng, libopenh264, libphonenumber, libphysfs, libpipeline, libpng++, libpsl, libpugixml, libqalculate, libquiche, libraqm, librasterlite, libraw, libre, libressl, libresvg, librist, librtmp, libsmi, libspectre, libspng, libsrtp, libtalloc, libtextstyle, libthai, libtinyxml2, libtorrent-rasterbar, libtwolame, libupnp, libusrsctp, libuuid, libvips, libwasmtime, libwavpack, libwebm, libxcrypt, libxml2-python3, libyuv, libzim, libzlog, lief, lighttpd, links, livego, llhttp, llvm+clang+lld, lmdb, lodepng, log4cplus, lolcat, lrzip, lsd, lsof, lua, luau, lunatic, lunzip, lychee, lynx, lz4, lzip, lzo, lzop, magic_enum, mcfly, md4c, mdbook, mdcat, mediainfo, minisign, miniz, minizip, mold, mosh, mozjpeg, mozjpeg2, mpg123, mpv, msgpack-c, mujs, nano, nanomsg, nap, nasm, navi, ncdu, neofetch, netcat, nethogs, netpbm, nghttp2, nginx, ngtcp2, ninja, nnn, nsh, nspr, ntbtls]
+        pkg: [libcroco, libduktape, libexhale, libexiv2, libflatbuffers, libglfw3, libglm, libgraphene, libilbc, libimagequant, libintl-lite, libirecovery, libisoburn, libjpeg, libkrb5, libleveldb, liblinear, liblmdb, libmaxminddb, libmd, libmesalink, libmetalink, libmhash, libmicrohttpd, libmill, libmimalloc, libminiz, libmms, libmpir, libnetpbm, libnng, libopenh264, libphonenumber, libphysfs, libpipeline, libpng++, libpsl, libpugixml, libqalculate, libquiche, libraqm, librasterlite, libraw, libre, libressl, libresvg, librist, librtmp, libsmi, libspectre, libspng, libsrtp, libtalloc, libtextstyle, libthai, libtinyxml2, libtorrent-rasterbar, libtwolame, libupnp, libusrsctp, libuuid, libvips, libwasmtime, libwavpack, libwebm, libxcrypt, libxml2-python3, libyuv, libzim, libzlog, lief, lighttpd, links, livego, llhttp, llvm+clang+lld, lmdb, lodepng, log4cplus, lolcat, lrzip, lsd, lsof, lua, luau, lunatic, lunzip, lychee, lynx, lz4, lzip, lzo, lzop, magic_enum, mcfly, md4c, mdbook, mdcat, mediainfo, minisign, miniz, minizip, mold, mosh, mozjpeg, mozjpeg2, mpg123, mpv, msgpack-c, mujs, nano, nanomsg, nap, nasm, navi, ncdu, neofetch, netcat, nethogs, netpbm, nghttp2, nginx, ngtcp2, ninja, nnn, nsh, nspr, ntbtls]
 
     runs-on: macos-14
 
@@ -144,7 +144,7 @@ jobs:
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(./xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(~/.xcpkg/uppm/installed/coreutils/bin/sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -168,7 +168,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [nuclei, nushell, oat++, obfs4proxy, onefetch, openal-soft, opencolorio, opencv, openlibm, openmpi, openslide, openssh, p11-kit, p7zip, packcc, patch, patchelf, pbzip2, pcapplusplus, pget, pigz, pjsip, pkg-config, pkgconf, plog, plzip, png, pngcheck, pngquant, pngsplit, poco, ppkg, procs, progress, proj, psimd, pup, putty, pybind11, python3-setup, python@3.10, python@3.11, python@3.9, q, qemu, qpdf, qrencode, quiche, quickjs, ragel, rang, ranger, rapidjson, rav1e, rclone, re2c, redis, restic, resvg, rhash, ripgrep, ripgrep-all, rlwrap, rsass, rsync, rtmpdump, rtorrent, ruff, rust-analyzer, sassc, scc, sccache, screenresolution, sd, shared-mime-info, shc, shell2http, shellharden, shiori, silicon, simdjson, sjpeg, skcms, sl, slang, socat, soundtouch, speex, spirv-tools, sqlite3, starship, stwolame, stylua, subfinder, supervisord, suricata, svn-lite, swig, syncthing, sysinfo, szip, t1utils, taglib, tarlz, tbox, tcc, tcl, tcpdump, tealdeer, tectonic, tengo, terragrunt, tiff, tig, tinysearch, tlrc, tmux, tokei, toml++, toml11, tree, ttyd, ttygif, ttyrec, tweego, twolame, typos, uctags]
+        pkg: [nuclei, nushell, oat++, obfs4proxy, onefetch, openal-soft, opencolorio, opencv, openlibm, openmpi, openslide, openssh, p11-kit, p7zip, packcc, patch, patchelf, pbzip2, pcapplusplus, pget, pigz, pjsip, pkg-config, pkgconf, plog, plzip, png, pngcheck, pngquant, pngsplit, poco, ppkg, procs, progress, proj, psimd, pup, putty, pybind11, python3-setup, python@3.10, python@3.11, python@3.9, q, qemu, qpdf, qrencode, quiche, quickjs, ragel, rang, ranger, rapidjson, rav1e, rclone, re2c, redis, restic, resvg, rhash, ripgrep, ripgrep-all, rlwrap, rsass, rsync, rtmpdump, rtorrent, ruby, ruff, rust-analyzer, sassc, scc, sccache, screenresolution, sd, shared-mime-info, shc, shell2http, shellharden, shiori, silicon, simdjson, sjpeg, skcms, sl, slang, socat, soundtouch, speex, spirv-tools, sqlite3, starship, stwolame, stylua, subfinder, supervisord, suricata, svn-lite, swig, syncthing, sysinfo, szip, t1utils, taglib, tarlz, tbox, tcc, tcl, tcpdump, tealdeer, tectonic, tengo, terragrunt, tiff, tig, tinysearch, tlrc, tmux, tokei, toml++, toml11, tree, ttyd, ttygif, ttyrec, tweego, twolame, typos]
 
     runs-on: macos-14
 
@@ -197,7 +197,7 @@ jobs:
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(./xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(~/.xcpkg/uppm/installed/coreutils/bin/sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -221,7 +221,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [unbound, unixodbc, unrar, unzip, uppm, uppm@0.15.2, uppm@0.15.3, utf8.h, utfcpp, util-linux, vala, valijson, vegeta, vim, virustotal-cli, viu, volta, vsftpd, wabt, wasm3, wasmer, wasmtime, watchexec, wavpack, webhook, webp, websocketpp, wget, whois, wolfssl, wuzz, x264, x265, xh, xmake, xmlrpc-c, xmlto, xmlutils, xmlwf, xorg-libxcursor, xorg-libxdamage, xorg-libxmu, xorg-libxpresent, xorg-libxscrnsaver, xorg-libxshmfence, xorg-libxvmc, xorg-libxxf86vm, xorg-xinput, xorriso, xpup, xsltproc, xxd, xxhash, xz, yajl, yaml-cpp, yasm, youtubedr, yq, yyjson, zip, zlib-ng, zls, zola, zopfli, zoxide, zsh, zstd, zsync]
+        pkg: [uctags, unbound, unixodbc, unrar, unzip, uppm, uppm@0.15.2, uppm@0.15.3, utf8.h, utfcpp, util-linux, vala, valijson, vegeta, vim, virustotal-cli, viu, volta, vsftpd, wabt, wasm3, wasmer, wasmtime, watchexec, wavpack, webhook, webp, websocketpp, wget, whois, wolfssl, wuzz, x264, x265, xh, xmake, xmlrpc-c, xmlto, xmlutils, xmlwf, xorg-libxcursor, xorg-libxdamage, xorg-libxmu, xorg-libxpresent, xorg-libxscrnsaver, xorg-libxshmfence, xorg-libxvmc, xorg-libxxf86vm, xorg-xinput, xorriso, xpup, xsltproc, xxd, xxhash, xz, yajl, yaml-cpp, yasm, youtubedr, yq, yyjson, zip, zlib-ng, zls, zola, zopfli, zoxide, zsh, zstd, zsync]
 
     runs-on: macos-14
 
@@ -250,7 +250,7 @@ jobs:
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(./xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(~/.xcpkg/uppm/installed/coreutils/bin/sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
