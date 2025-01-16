@@ -1,5 +1,5 @@
 summary: Highly capable, feature-rich programming language
 webpage: https://www.perl.org/
-version: 5.38.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64/releases/download/2024.06.14/perl-5.38.2-macos-13.0-arm64.tar.xz
-bin-sha: 8f71f5d479106df1b806a6ff444ee4aab8db54239ec5f2e2c4a72b383a119cb9
+version: 5.40.0
+bin-url: https://github.com/leleliu008/perl-distribution/releases/download/5.40.0/perl-5.40.0-macos-13.0-arm64.tar.xz
+bin-sha: 33e3d26f6d8bad8d41c82ced0174202851e67d1137360db5e3bd34672a575d6d
